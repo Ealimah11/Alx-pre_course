@@ -1,2 +1,4 @@
 My first readme
-this project is a practice on how to navigate git
+this project is a practice on how to navigate git.
+
+Coding is cool
